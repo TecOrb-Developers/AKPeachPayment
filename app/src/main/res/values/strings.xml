@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PeachPaymentGatway</string>
+    <string name="cvc">CVC</string>
+    <string name="pay_now">Pay Now</string>
+</resources>
